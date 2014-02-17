@@ -1,0 +1,29 @@
+{
+  "name": "Bootstraplet",
+  "description": "A simple, quick and easy to use tool to bootstrap your bookmarklet",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sebgeelen/bootstraplet",
+  "author": {
+    "name": "Sébastien Geelen",
+    "url": "https://github.com/sebgeelen/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sebgeelen/bootstraplet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebgeelen/bootstraplet/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/sebgeelen/bootstraplet/blob/master/LICENSE"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-replace": "~0.6.2"
+  }
+}
